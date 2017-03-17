@@ -1,4 +1,4 @@
-IMAGE = mvertes/gitlab-runner-node
+IMAGE = leocaseiro/gitlab-runner-node
 
 all:
 
